@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Catatan untuk challenge 3
+1. Cari tau cara bikin bootstrap di react (Done)
+2. bikin UI nya seperti pada gambar
+	a. ketika checkbox diceklis, maka tulisan pada list kasih style coret (Done)
+3. lakukan serching terhadap data yang ada (Done)
+4. lakukan filter antara semua, selesai, dan todo (Done)
+5. delete todo yang sudah terceklis
+6. delete semua todo yang ada
+7. lakukan add/update data menggunakan halaman lain
