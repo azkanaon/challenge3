@@ -1,0 +1,8 @@
+.complete {
+  text-decoration: line-through red;
+  color: grey;
+}
+
+.width-custom {
+  width: 15%;
+}
